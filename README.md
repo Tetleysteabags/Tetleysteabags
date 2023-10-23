@@ -1,6 +1,3 @@
+Proven track record of analysing complex data sets, developing and delivering strategic goals, and leading teams. Passionate about generating insights for cross-functional teams by combining data science and domain expertise. 
 
-
-<!---
-Tetleysteabags/Tetleysteabags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In my repositories there will be code snippets which I find useful, as well as code which I have used on personal projects.
