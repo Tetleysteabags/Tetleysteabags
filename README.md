@@ -1,3 +1,1 @@
-# Basic analysis of Netflix data
-
-This was a simple data cleansing and analysis task using Netflix data
+Proven track record of analysing complex data sets, developing and delivering strategic goals, and leading teams. Passionate about generating insights for cross-functional teams by combining data science and domain expertise. 
