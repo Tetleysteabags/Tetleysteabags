@@ -1,1 +1,1 @@
-Proven track record of analysing complex data sets, developing and delivering strategic goals, and leading teams. Passionate about generating insights for cross-functional teams by combining data science and domain expertise. 
+Naturally curious with experience in financial services, media, and mobile marketing. Proven track record of working in complex environments and cross-functional teams, delivering practical solutions to business needs. Highly motivated to apply my skills in business strategy, data science, and domain knowledge to new challenges.
