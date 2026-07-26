@@ -7,7 +7,7 @@ Strategy, analytics, and operations background in financial services, media, and
 
 **[SendLab](https://sendlabs-beta.up.railway.app/)** — private repo. A production ML app: Databricks/MLflow-tracked gradient boosting and Ridge models serve live climbing-grade predictions via FastAPI, with scheduled retraining on GitHub Actions. Serving 1,300+ climbers.
 
-**[Strategy investor](https://investing.alasiya.io/)** — private repo. A value-investing platform with a monthly-rebalanced backtest engine and an autonomous crypto paper-trading pipeline (Claude and GPT-4o agents vs. rule-based baselines) that runs hourly on GitHub Actions.
+**[Strategy investor](https://investing.alasiya.io/)** — private repo. Two paper-trading systems running unattended, in public: a monthly-rebalanced value-investing committee on US equities, and an hourly crypto arena pitting Claude and GPT-4o agents against rule-based baselines, net of trading and inference cost. Self-hosted scheduler running on a VPS, FastAPI + Next.js, live at investing.alasiya.io
 
 **[Alasiya.io](https://alasiya.io)** — private repo. Essays and interactive data-journalism pieces (housing, water, energy, economy), published roughly monthly, built on Astro.
 
